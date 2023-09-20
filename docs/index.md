@@ -4,7 +4,7 @@ title: index
 
 # Awesome Cybersecurity Blue Team[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-这是一个赛博世界的蓝队清单～ 主要内容来源于对开源资料的翻译和整理，以及自己加上去的一些内容。偏向于工程化方向（找轮子与造轮子），理论以及解决方案的讨论请查看我的另一开源文档：[安全运营之路](https://y1ng.org/TheRoadOfSO/)。
+蓝队清单
 
 
 
@@ -17,5 +17,6 @@ title: index
 
 ---
 
-这是我的邮箱📮：`contact@y1ng.org` 欢迎交流！
+东方隐侠·Anonymous `[![东方隐侠安全实验室](https://mp.weixin.qq.com/s/fmLgwYd6MLhVNuzPTA4z9A)` 欢迎加入共谋网安大业~
+这是我的邮箱📮：`tony0dark@gmail.com` 欢迎交流！
 
