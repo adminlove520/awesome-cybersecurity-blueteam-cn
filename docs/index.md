@@ -17,5 +17,6 @@ title: index
 ---
 
 -   东方隐侠·Anonymous `[东方隐侠安全实验室](https://mp.weixin.qq.com/s/fmLgwYd6MLhVNuzPTA4z9A)` 欢迎加入共谋网安大业~
+-   [Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
 -   这是我的邮箱📮：`tony0dark@gmail.com` 欢迎交流！
 
